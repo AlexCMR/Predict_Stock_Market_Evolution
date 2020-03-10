@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/fundalPg">
+        <file>markus-spiske-5gGcn2PRrtc-unsplash.jpg</file>
+        <file>login image.jpg</file>
+        <file>stonks.jpg</file>
+        <file>fundal.jpeg</file>
+        <file>fundal1.jpeg</file>
+        <file>Untitled-1.jpg</file>
+        <file>BANNER.jpg</file>
+    </qresource>
+</RCC>
